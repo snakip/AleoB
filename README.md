@@ -2,7 +2,7 @@
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
-A standard game of Tic-Tac-Toe in Leo.
+My discord is emboadec. A standard game of Tic-Tac-Toe in Leo.
 
 ⭕ ❕ ⭕ ❕ ❌
 
